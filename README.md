@@ -1,6 +1,6 @@
 ### Oi eu sou a Luana Batista😊
 
-- 🔭 Estou atualmente estagiando com front-end
+- 🔭 Estou atualmente estagiando com front-end e testes de software
 - 🌱 Estou aprendend ReactJS
 - 📫 Como chegar até mim: Luanasbatista0@gmail.com
 
